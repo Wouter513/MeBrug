@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1664273409 source:c:\users\esmee\documents\avrprojects\brugcodev0.1\fuse.c
+	<avr/io.h>
+
+1601561593 source:c:\users\esmee\documents\avrprojects\brugcodev0.1\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1665576622 c:\users\esmee\documents\avrprojects\brugcodev0.1\h_bridge.h
+
+1632492336 source:c:\users\esmee\documents\avrprojects\brugcodev0.1\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1601558743 c:\users\esmee\documents\avrprojects\brugcodev0.1\servo.h
+
+1664273409 source:c:\users\esmee\documents\avrprojects\brugcodev0.2\fuse.c
+	<avr/io.h>
+
+1665747723 source:c:\users\esmee\documents\avrprojects\brugcodev0.2\main.c
+	"h_bridge.h"
+	"servo.h"
+	<avr/io.h>
+	<util/delay.h>
+
+1665577900 c:\users\esmee\documents\avrprojects\brugcodev0.2\h_bridge.h
+
+1665577900 c:\users\esmee\documents\avrprojects\brugcodev0.2\servo.h
+
+1601561593 source:c:\users\esmee\documents\avrprojects\brugcodev0.2\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1632492336 source:c:\users\esmee\documents\avrprojects\brugcodev0.2\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
